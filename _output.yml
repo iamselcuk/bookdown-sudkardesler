@@ -6,7 +6,7 @@ bookdown::gitbook:
         <li><a href="./">sud kardesler</a></li>
 
 
-    download: ["", ""]
+    download: ["pdf", ""]
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
