@@ -6,8 +6,7 @@ bookdown::gitbook:
         <li><a href="./">sud kardesler</a></li>
 
 
-      download: ["book.pdf", "book.epub"]
-bookdown::pdf_book:
+      
   includes:
     in_header: preamble.tex
 
@@ -15,3 +14,6 @@ bookdown::pdf_book:
   keep_tex: yes
 bookdown::epub_book: default
     
+    download:
+      - ["book.pdf", "PDF"]
+      - ["book.epub", "EPUB"]
