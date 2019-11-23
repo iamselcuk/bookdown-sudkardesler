@@ -13,5 +13,21 @@ github-repo: rstudio/bookdown-demo
 description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
 ---
 
-# Ozet-Abstract
+\center SÜT KARDEŞLER\center
+
+Vodvil 3 Fasıl
+
+Nâkili: Dâr'ül-bedâî' Rejisörü İ.Galib
+
+Bu eser ilk def'a olarak Dâr'ül-bedâî Sanatkârları tarafından Tepebaşı Kışlık Tiyatro'sunda temsîl edilmiştir.
+
+HER HAKKI MAHFÛZDUR
+
+Tab' ve nâşiri
+Halk Kütüphânesi Sahibi
+Abdülaziz
+
+    Necm-i İstanbul Matbaası
+	      1926
+
 
