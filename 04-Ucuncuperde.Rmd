@@ -1,0 +1,672 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# 3. PERDE 
+
+
+## Birinci Meclis
+
+     [**Yaşar** - Şemsi]
+     [Perde açıldığı zaman sokak kapısının çalındığı işitilir. Az sonra bahçe kapısı tarafından Yaşar gözükür..]
+
+Aynı dekor
+
+**Yaşar** - Kapıyı bacak kadar bir arap kızı açtı.. Ne bahçede ne burada kimseler yok.. Sakın hepsi de sözbirliği edip sıvışmış olmasınlar (Orta masaya gider su içer) Oh.. Susamışım.. Şemsi Ağabey de şimdi beni burada görünce kızacak ama ne yapalım.. Ben ona söyledim vesikamı getirmezsen yine damlarım dedim.. (Bir yere oturur)\
+**Şemsi** - (Girerek) Her kapı çalındıkça Yaşar diye ödüm kopuyor (Görerek) Ay.. İşte Yaşar.. Emindim zaten.. \
+**Yaşar** - (Sıçrayarak) Ha.. Şemsi Ağabey.. Hemen darılma..\
+**Şemsi** - Niye geldin bakayım? Ben demedim mi ki?..\
+**Yaşar** - Dur söyleyim ağabeyciğim. Ne yapayım bir saatten ziyade bekleyemedim. Anlaşıldı ki sen gelmeyeceksin. Tezkeremi buldunsa ver de gideyim.. Vaz geçtim.\
+**Şemsi** - Yaşar'cığım daha bulamadım.. Çünkü vesikan ceketimin..şeyinde.. Çeketimin şeyinin içinde kalmış da..\
+**Yaşar** - Ne ? Yoksa vesikamı kayıp mı ettin.\
+**Şemsi** - (Ağızını kapayarak) Sus diyorum hemen islim koyverme..\
+**Yaşar** - kayıp mı oldu? Aman sahi ha.. Şemsi Ağabey vesikam kayıp mı oldu..\
+**Şemsi** - Hayır yavrucuğum hayır, hayır. Şimdi git o kahvede biraz otur arkandan geleceğim. Tabii vesikanla beraber..\
+**Yaşar** - Ben o kahvede sıkılıyorum. Orada bir Rum oğlanı var yüzüme bakıp sırıtıyor.. Oraya gidemem. Hem bu sefer vesikamı almadan şuradan şuraya gitmeyeceğim..\
+**Şemsi** -  Yaşar'cığım, canım, ciğerim...\
+**Yaşar** -  (Kafa tutarak) Canım, ciğerim yok. Yüz sene beklemek lazım gelse bekleyeceğim.. Nah işte buraya demir attım..\
+**Şemsi** -  Üç dakika. Üç dakika sonra arkandan geleceğim diyorum kardeşim..\
+**Yaşar** - Pişin [?] sen ! O bir defa olur.\
+**Şemsi** - Ahh.. Katır inadı.. (Aklına birşey gelmiş gibi) Peki peki (Sağ tarafta birinci plandaki küçük kapıyı göstererek) Gir şu küçük salona ama hiç kımıldama.. Bir yere çıkma..\
+**Yaşar** - Ne yapacağım orada?\
+**Şemsi** - Beş dakika oturacaksın a iki gözüm. Bak orada masanın üzerinde tavla var.. \
+**Yaşar** - (Yılışarak) Bir beş mi atacağız?..\
+**Şemsi** - Yaşar'cığım vesikanı arayacağım. Hem seninle tavla oynayayım hem de vesikanı mı arayayım? Nasıl olur?\
+**Yaşar** - Hakkın var Şemsi Ağabey. Peki.. Peki\
+**Şemsi** - Bana Şemsi deme be, ne davul kafalısın!\
+**Yaşar** - Ha sahi.. Sahi ben senim sen de bensin değil mi?\
+**Şemsi** - Ya.. Aman geliyorlar çabuk ol.\
+**Yaşar** - Ah Şemsi Ağabey sen yok mu? (Girer) ([Şemsi] Yaşar'ın üstünden kapıyı kilitler anahtarı üstünde bırakır..)\
+**Şemsi** - Ha şöyle sen biraz bekle bakalım Yaşar'cık!.\
+
+##  İkinci Meclis
+
+     [Şemsi-sonra Necdet-sonra Pakize-sonra Kaymakam]
+
+**Şemsi** - Ah.. Gözümü açsam bir de baksam ki bütün bunlar rüya imiş..\
+**Necdet** - (Pakize ile girerek) Demin kapı çalınmıştı kimmiş acaba? \
+**Şemsi** - (Başından savma) Bilmem! Kapıyı şaşırmış birisi galiba.. Gitti..\
+**Necdet** - (Kendi vaziyetini düşünerek) Karadeniz Sahil Muhafızlığı Müfettiş-i Umumisi ha !.\
+**Pakize** - (Kendi vaziyetini düşünerek) Acaba herşeyi güzellikle dayıma söylesem mi?\
+**Şemsi** -(Birdenbire) Hah.. Buldum ! Bu içinden çıkılmaz berzahtan kurtulmak için bir çare var.\
+**Necdet** -  Oh çok şükür! Ey nedir Şemsi Bey?\
+**Pakize** - Aman çabuk söyleyin..\
+**Şemsi** -  (Başını kaşır düşünür) Ama.. Olamaz.. Bir işe yaramaz ki\
+**Necdet** - Canım söylesenize.. Zarar yok..\
+**Şemsi** - Hayır.. Bahriye Vekaletinde büyüklerden bir tanıdığım olsaydı da Gazanfer Kaptan'ın yeni memuriyetin tebdil ettirsek diyordum.\
+**Pakize** - A.. Ben de bir çare buldunuz zannediyordum.\
+**Necdet** - (Ona kızgın bakarak) Allah kimseyi şaşırtmasın\
+**Şemsi** -  Latife zannetmeyin. Hiç olmazsa kaymakam beyin bu hafta Trabzon'a gitmesini tehir edecek bir sebeb, bir hile olmalı.. (Aklına birşey gelerek( Ha.. Ben biraz telefona kadar gidip geleyim tanıdık bir şeytanla konuşacağım ve eğer bu adamı yerinde bulursam hileyi de buldum demektir. \
+**Necdet** - Acaba?\
+**Şemsi** - Emin olun. Hile bulmaya çekinme [?] [gelince] bunda güçlük çekmeyiz\
+**Pakize** - (Mütebessim) Bundan eminim Yaşar..\
+**Ka[ymakam]** - (Dışardan) Yaşar\
+**Necdet** -  Hah.. Eyidir [epeydir] beni unutmuştu..\
+**Pakize** - Necdet dayım bağırıyor..\
+**Ka[ymakam]** - (Dışardan) Yaşar, Yaşar.\
+**Şemsi** - (Süratle cebinden Necdet'in vesikasını çıkararak ona verir)\
+**Şemsi** - Şist.. Bana bak al şu tezkereyi koş yoksa şimdi buraya damlar.\
+**Ka[ymakam]** - (Dışardan) Yaşar diyorum...\
+**Necdet** -  Geldim kaymakam bey.. Geldim efendim.. (Giderken) hay yaşamaz olayım..\
+
+## Üçüncü Meclis
+
+     [Şemsi- Pakize]
+
+**Şemsi** - (Necdet'in gittiğine kani olduktan sonra) Pakize Hanım sizinle bir saniye yalnız kalmak için bahane arıyordum, işte bahane ayağımıza geldi.. \
+[**Pakize** -] Ne söylemek istiyorsunuz.\
+**Şemsi** - Pakize Hanım.. Vaziyetimiz gittikçe daralıyor.. (Tevkif) Pakize Hanım.. Mevkiimiz.. (Karar vererek) Size hakikati itiraf edeceğim.. \
+**Pakize** - Hangi hakikati!..\
+**Şemsi** - Evet hangi hakikati.. Evet söyleyeceğim.. Fakat daha evvel bana vaad ediniz de emin olayım..\
+**Pakize** - Vaad mi! Neyi?\
+**Şemsi** - Söyleyim efendim.. Seha Hanım'a hiçbir şeyi söylememenizi rica ederim.. Bunu bana vaad ediyor musunuz?\
+**Pakize** -  Peki- Ama niçin?\
+**Şemsi** -Ya niçin? Çünkü Seha Hanım (küçük tereddüd) benim karım Seha'dır.\
+**Pakize** - Haa... Seha aldanmamış.. Siz Şemsi Bey'siniz değil mi?\
+**Şemsi** - (Mahcup, mütebessim) Vallahi doğrusunu söylemek lazım gelirse kim olduğumu doğru dürüst ben de bilmiyorum.. Şemsi idim.. Yaşar oldum.. Yaşar'ken Necdet oldum. Şimdi yine Şemsi oldum.. Ama sizin için. Bütün bu şahsiyetlere iki içinde girdim. Bir kişi için bu oldukça ağır bir vazife değil midir?\
+**Pakize** -  Demek Şemsi Bey siz de zevcenizi aldatmak istiyordunuz öyle mi?\
+**Şemsi** -  Kabahat kimin? Sakın sizin olmasın\
+**Pakize** - Benim mi?\
+**Şemsi** - Süt kardeşinize o kadar güzel o kadar nevazişkar[gönül alan; iltifat eden] mektuplar yazıyordunuz ki zavallı Yaşar.. O da cevap yazmam için ısrar edip duruyordu..\
+**Pakize** - Ne o mektuplar..\
+**Şemsi** - Evet o mektupların hepsi benim.. Zavallı Yaşar'cığımın o okuyup yazması o kadar kısa ki ister istemez ben yazardım ve..\
+**Pakize** - Ve benim mektuplarımı da..\
+**Şemsi** - Tabii ister  istemez ben alırdım. Günün birinde yazılarınızdan hissettiğim cazibenize tahammül edemedim, sizden resminizi istedim. Gönderdiniz..\
+**Pakize** - Size değil.. Ona..\
+**Şemsi** -  Farz edelim ki ikimize birden.. Madem ki yazan ben yazdıran ise o.. Hayır artık yazdıran da sizdiniz..\
+**Pakize** - Evet evet şimdi hepsini anladım fakat.. Siz zannediyor musunuz ki.. Oynadığınız bu komediyi biz Seha ile alkışlayacağız? affedersiniz Şemsi Bey..\
+**Şemsi** - Siz affedersiniz Pakize Hanım. Müsaade ediniz de ikmal edeyim.. ben gayrı-iradi bir surette girdiğim o komedinin kahramanı iken şimdi kurbanı olmaktan korkuyorum.. Bakın demin ne diyordum?.. Emin olun ki bu maceraya irademin haricinde bir surette atıldım. Hadisatın cereyanı seni, bizi hepimizi bu berzaha attı. Şimdi buradan el birliği ile kurtulmaya bakacağımıza birbirimize girecek olursak emin olun kördüğümü oluruz. Ve sonra unutmayınız ki bütün bütün bunların yegane sebebi sizin güzelliğinizdi. Şimdi beni kurtarmak istemez misiniz?\
+**Pakize** - Zevcenizi seviyorsunuz! Ben bir maceradan başka birşey değilim öyle mi Şemsi Bey..\
+**Şemsi** -  Rica ederim bunu demedim..\
+**Pakize** - Tabii.. Bunu demediniz.. Çünkü siz terbiyeli bir gençsiniz (İçini çekerek) Haydi canım.. Kendiniz sıkmayın benim Seha benim eski arkadaşım.. Onu sizin kadar ben de severim. Siz de onu tercih etmekte haklısınız.. Çünkü zevceniz.. Benden istediğiniz affa gelince, Şemsi Bey sizi affediyorum hatta size karşı bir parça medyun-u şükranım [teşekkür borçluyum].\
+**Şemsi** - Medyun-u şükran mı?\
+**Pakize** - Evet sizin sayenizde hayatımda mühim bir tecrübe geçirmiş oldum. Tıpkı ilk defa olarak memnu bir meyveden yiyen bir adam gibi tuhaf bir hiz, bir baş dönmesi içinde kaldım. Fakat işte bugün bu tehlikeli yoldan h,çbir vicdan azabı hissetmeden dönüyorum. Yalnız unutulmaz acı bir hatıra saklıyorum. ;şte bu kadar.. Şimdi söyleyin bakalım Yaşar için nasıl bir iyilik yapabilirim. \
+**Şemsi** -  Pek sade bir şeyi.. Yaşar'ın vesikasını geri alacaksınız.. İşte bu kadar.\
+**Pakize** - Demek ki Seha onu geri vermedi.\
+**Şemsi** - Maalesef hayır!.. Yaşar da vesikasını bekleyip duruyor. Şunu vesikasını ele geçiriniz üst tarafını ben halledeceğim Pakize Hanım.\
+**Pakize** - Nasıl! Hakiki Yaşar.. Asıl süt kardeşim burada mı? Ama nerededir görmek isterdim..\
+**Şemsi** -  Evet ama; şimdi değil..\
+**Pakize** - Ne vakit..\
+**Şemsi** - Ne vakit onun vesikasını bulursanız o vakit onu sizin kardeşinize çıkartırım. \
+**Pakize** -  Pekala ben de size vaad ediyorum.\
+**Şemsi** -Ah Pakize Hanım size ne surette teşekkür edeceğimi bilemiyorum\
+**Pakize** - Ne suretle mi_ Şimdiye kadar yaptıklarınızı bir daha yapmamak suretiyle..\
+**Şemsi** -  O.. Buna emin ol süt kardeşim..\
+**Pakize** - (Gülerek) Haydi öyle ise şimdi işinizin başına..\
+**Şemsi** - Ne gibi?\
+**Pakize** -  Hani arkadaşınız şeytana telefon edip dayımın Trabzon'a hareketini tehir için hile bulacak değil miydiniz?\
+**Şemsi** -  Evet! Öyle ya gidiyorum (Küçük salon tarafına bakarak bir küçük tereddütten sonra kendi) Allah vere de Yaşar'ın olduğu yere kimse girmese.. (Çıkar)\
+
+## Dördüncü Meclis
+
+**Pakize** - (Yalnız) Evet onu kutarmak vazifemdir.\
+**Seha** - (Gelerek) Kuzum sahte Yaşar nerelerde?\
+**Pakize** - Biraz evvel sokağa çıktı.\
+**Seha** - Sokağa mı çıktı? İşte benim de kortuğum bu idi. Sen de mani olmadın öyle mi?\
+**Pakize** - A.. Seha'cığım onu burada zorla alıkoyamazdım ya!\
+**Seha** - Peki hiç olmazsa nereye gittiğini sormadın mı?\
+**Pakize** - Aman Seha'cığım, süt kardeşim burada karantina altında değil.. Canı istediği zaman sokağa çıkamaz mı?\
+**Seha** -  Aman Pakize! Sür kardeşin, süt kardeşin.. Düşünmüyorsun ki Yaşar Efendi karantina altında değil ama gayet şüpheli  bir vaziyettedir. galiba pek yakında teslim bayrağını çekmek lazım geldiğini hissetiği için sıvıştı. Eminim ki cezadan kurtulmak için  yine mutlaka kendine mahsus birtakım hileli dolaplar kurmaya gitmiştir.\
+**Pakize** -  Hayır canım bilakis buradan çıktığı zaman gayet tabii idi\
+**Seha** -Ah.. Bana haber vermek yok muydu kardeşim ? Bak ben nasıl onun yolunu keserdim.\
+**Pakize** - Oo.. Demek ki senin uzaktan uzağa bir şüphen var diye..\
+**Seha** - (Bağırarak) Ne, uzaktan uzağa mı?\
+**Pakize** - Öyle ya.. Bari elinde ciddi ispatlar olsa..\
+**Seha** - Ya..\
+**Pakize** - Değil mi ya.. Nereden nereye,tesadüfen kocanla aynı gemiye düşmüş zavallı bir aşcıyı iki sene görmediğin kocana benzetip türlü türlü şüphelere düşüyorsun.\
+**Seha** - Vay, vay, vay..\
+**Pakize** - Bu çılgınlıktan başka birşey değil Seha'cığım..\
+**Seha** - (pakize hakkında şüpheler içinde kendi) Acaba, sakın\
+**Pakize** - Canım sana vesikasını gösterdi ya..\
+**Seha** - Evet öyle vesikasını gördüm.\
+**Pakize** - Pekala bu bir ispat değil mi? Vesikasını göstermemiş olsa idi neyse. Sahi onun vesikasını iade ettin miydi?\
+**Seha** - (Masum bir tavırla) Ne peki[Dizgi hatası-Nesini] cicim\
+**Pakize** - Askerlik vesikasını..\
+**Seha** -  Hayır.. Alıkoydum. Ta emin oluncaya kadar da vermeyeceğim. O bana lazım..\
+**Pakize** - (Yalandan gülerek) Ya.. Pekala edersin. Nereye koymuştun onu?\
+**Seha** - Yattığım odada camlı dolabın alt gözüne koymuştum, Pakize'ciğim.\
+
+## Beşinci Meclis
+
+     [Kaymakam - Pakize-Seha]
+
+**Kaymakam** - Eyy.. Pakize kızım rahatsızlığın geçti ya?.. Nasılsın?\
+**Pakize** - Teşekkür ederim dayıcığım.. Şimdi iyiyim.. Demin balkonda oturdum. Biraz hava aldım geçti.. Bir parça da odama gidip uzanmak istiyorum.\
+Kaymakam - Hah.. Ya iyi olur.. Git istirahat et yavrum.\
+**Pakize** - (Seha'ya) Beni mazur görüyorsun ya Seha'cığım\
+**Seha** - Aman kardeşciğim ben yabancı mıyım? Allahaşkına sıkılma\
+**Pakize** - (kendi, giderken) Camlı dolabın alt gözünde\
+**Kaymakam** - Bak Pakize'ciğim Seha Hanım da izin verdiler. artık odana çıkıp iyice istirahat et hatta biraz uyursan fena etmezsin.. Bizi hiç düşünme.. Sen iyice istirahat et kızım..\
+**Seha** - (Kendi) Git camlı dolabı iyice karıştır bakalım. (Vesikayı göğsünden çıkarıp bakarak) Vesikanın yerini bulabilir misin? (Vesikayı yine göğsüne koyup ayağa kalkar)\
+
+##   Altıncı Meclis
+
+**kaymakam** - (Yaklaşarak) Şu Pakize ne narin, ne ince bir kadındır değil mi, seha Hanım? Bakın bizi başbaşa bıraktı..\
+**Seha** - Tabii değil mi efendim! Pakize pek samimi bir arkadaşımdır.\
+**Ka[ymakam]** - Ah Seha'cığım.. Ben, ben ki hayatın bütün dalgalarına bi-perva göğüs germiş bir adamım. Bir saatten beri kasırgaya tutulmuş tekne gibi zangır zangır titriyorum \
+**Seha** - Titriyor musunuz? A.. Niçin?\
+**Ka[ymakam]** - Söyleyim civanım. Ya kocanız size sadıksa.. Benim halim ne olacak diye..\
+**Seha** - Ha.. eğer sizi korkutan, düşündüren şey bu ise emin olun..\
+**Ka[ymakam]** - Nasıl, sahi mi söylüyorsunuz? (Titreyerek)\
+**Seha** - Evet! hem biraz evvel bundan bir parça şüphe edebiliyordum. Fakat şimdi artık o şüphem de kalmadı.\
+**Ka[ymakam]** - Ya.. Sakın yeni bir şey mi öğrendiniz..\
+**Seha** - Evet! Öğrendiğim şu ki: Bir kadın zevcininin sadakatine olduğu kadar muhibbelerinin samimiyetine de itimat etmemeli imiş..\
+**Ka[ymakam]** - Acaip zevciniz size muhibbelerinizden birisiyle mi hiyanet ediyormuş.\
+**Seha** -  Hem de nasıl muhibbem!! Ne ise kaymakam bey.. Anladım ki hasmım bir değil iki imiş. Herhalde muzafferiyetim de iki misli olacaktır. \
+**Ka[ymakam]** - Yaşar ... Seha Hanım siz insanı yalnız kalben değil fikren de tesih ediyorsunuz [büyülüyorsunuz]\
+**Seha** -  Sonra eminim ki hissiyatım beni aldatmıyor. İçim öyle diyor ki zevcim şimdi İstanbul'dadır. Fakat niye sabahleyin evine gelmedi? Bunu mutlaka öğrenmeliyim. evet, bunu mutlaka öğrenmeliyim. katiyen eminim ki yarım saate kadar öğrenmek istediğimi öğreneceğim. Ve belki de kendisini ele geçireceğim..\
+**Ka[ymakam]** - Vay işte bu olmadı.. hemen gidiyor musunuz?\
+**Seha** -  Onu ne kadar çabuk ele geçirebilirsem o kadar çabuk.. Sizin olacağım..\
+**Ka[ymakam]** - Öyle ise durmayın Seha Hanım, gidin.. Ne yapacaksanız yapın. Yalnız unutmayınız ki Allah göstermesin zevciniz size sadıksa benim de işim bitiktir. Bu inkisar-i hayale [hayal kırıklığına] dayanamam ölürüm.\
+**Seha** -  Hayır, hayır, tehl,ke yok.. Yaşayacaksınız.. Benim için yaşayacaksınız.. (İçeri girer. kaymakam o giderken öpücük gönderir ve sonradan)\
+**Ka[ymakam]** - (Kendi) Oh bu kadın bana herşeyi yaptırabilir. ("Sen tazeledin ömrümü ey taze civanım" şarkısını mırıldanır..)\
+
+## Yedinci Meclis
+
+     [Kaymakam - Yaşar- sonra Necdet]
+     (Evvela Yaşar'ın bulunduğu odanın kapısı vurulur.. Sonra ses duyulur)\
+
+**Yaşar** - (İçeriden) Ağabey be.. Beni buraya ne diye hapsettin? açsana be.. Ağabey Allahaşkına aç..\
+**Ka[ymakam]** - (Kendi) Bu da kim (Gidip kapıyı açar)\
+**Yaşar** -  (Birden çıkarak hiddetle kaymakamın üzerine yürür) Alay mı ediyorsun Allahaşkına, ne diye beni hapsettin (Kaymakamı görerek birdenbire selam vaziyeti takınır) Vay geçmişini... Bir kaymakam be!!!\
+**Ka[ymakam]** - Bu da nesi sen nereden çıktın.. Kimin nesisin?\
+**Yaşar** - Ben mi efendim, ben iyi bir ailedenim.. Babamın biricik oğluyum. Benden evvelkilerin hepsi öldüğü için\
+**Ka[ymakam]** - Yok be.. Birdenbire böyle nereden çıktın, diyorum.. Rahat dur.\
+**Yaşar** -  Gördünüz ya bu odadan, kaymakam bey..\
+**Ka[ymakam]** - Peki bu odada ne yapıyordun..\
+**Yaşar** - (Elindeki tavla zarlarını işaret ederek) Ben mi? Hiç efendim. kendi kendime oynuyordum.\
+**Ka[ymakam]** - Kendi kendine oynuyor musun?\
+**Yaşar** - Evet. Çift getirebilir miyim diye.. Kendi kendime. Ne yaparsınız.. (Sırıtarak).\
+**Ka[ymakam]** - Peki orada kimi bekliyordun?\
+**Yaşar** -  Ben mi? Arkadaşımı kaymakam bey..\
+**Ka[ymakam]** - Arkadaşını mı? (serpuşundaki Aytaş .. ismine bakarak) Vay sen Aytaş Gemisi'nden misin?\
+**Yaşar** - Evet efendim Karadeniz Sevahil Bahriy Kumandanlığı maiyetinde Aytaş Karakol Gemisi'nden.\
+**Ka[ymakam]** - Anladım.. Sen Yaşar'ı bekliyorsun oğlum.\
+**Yaşar** -  Nasıl da bildiniz kaymakam bey. Evet onu bekliyorum\
+**Ka[ymakam]** - Pekala.. Dur bakalım (İçeriye bağırarak) Yaşar.. Aşağı gel seni istiyorlar.\
+**Yaşar** - (kendi) Vay canına keşke odadan çıkmasa idim kendi kendimi mars eder dururdum.\
+**Ka[ymakam]** - (Dönerek) Ey adın nedir bakalım senin?\
+**Yaşar** - Benim mi? Efendim.. Şemsi.\
+**Ka[ymakam]** - (Hayretle) Ne ! Şemsi mi? Şemsi Nuri?. İstanbullu?\
+**Yaşar** -  Evet kaymakam bey İstanbullu Şemsi Nuri\
+**Ka[ymakam]** - (Kendi) Ne seha hanım'ın kocası bu mu? haydi canım mümkün değil! (Yüksek) Göster bakayım tezkereni bahriyeli..\
+**Yaşar** -  (Tezkereyi cebinden çıkarıp verir) Benim mi, buyurun kaymakam bey..\
+**Ka[ymakam]** - (Okuyarak) Aytaş.. Şemsi Nuri, İstanbul.. Telsiz memurunun maiyetindesin öyle mi?\
+**Yaşar** - Ben mi? evet efendim sayenizde\
+**Ka[ymakam]** - (Yaşar'a bakarak kendi) Yuha.. Bu yobaz onun kocası!. Öyle gül gibi kadına bu saksı suratlı herif düşmüş ha.. Ne yazık.. Üste bir de kadına hiyanet ediyor.\
+**Yaşar** - (Kendi) Niye bana öyle ters ters bakıyor? kaptanı kızdırdık mı yoksa?\
+**Ka[ymakam]** - (Tezkere'yi vererek) ey şöyle otur bakalım Şemsi Efendi, ayakta kaldın..\
+**Yaşar** - Ben mi? Aman kaymakam bey sizin huzurunuzda\
+**Ka[ymakam]** - Otur canım ben öyle istiyorum haydi.. (Yaşar oturur) İstanbul'a ne vakit geldin..\
+**Yaşar** -  Ben mi? Bu sabah kaymakam bey (Tezkereyi cebine koyar)\
+**Ka[ymakam]** - Nereye indin?\
+**Yaşar** - Ben mi? Rıhtıma efendim.\
+**Ka[ymakam]** -Tabii onu sormuyorum sonra doğruca nereye gittin\
+**Yaşar** - Ben mi? Doğruca kartal'a, bizim suvarinin evine. Emanetler vardıda..\
+**Ka[ymakam]** -Ya.. Sonra..\
+**Yaşar** - Sonra hiç efendim buraya geldim..\
+**Ka[ymakam]** - Hiç mi? Yalan söylüyorsun..\
+**Yaşar** - Vallahi Billahi iki gözüm önüme aksın ki kaymakam bey\
+**Ka[ymakam]** - Dur yemin etme (Yaklaşıp biraz laubaliyane bir tavırla) Oturun. Eminim ki.. Sen bu sabah değil dün akşam gelmissindir. \
+**Yaşar** - Ben mi? Vallahi değil, kaymakam bey.. Bu sabah geldim ama\
+**Ka[ymakam]** - (Daha mürim [?] ) haydi canım sana izin veriyorum bana söyle bakayım.. Madem ki bu sabah geldim diyorsun, inandım.. Şimdi ötesini de söyle bakayım, kendine güzel bir ziyafet çekilmişsindir ya..\
+**Yaşar** - Ben mi? Oo.. Evet..\
+**Ka[ymakam]** - Ha..\
+**Yaşar** - Köprüden çıkar çıkmaz doğru muhallebiciye gittim üç tabak kaymaklı kadayıf yedim.\
+**Ka[ymakam]** - Onu sormuyorum canım.. Başka bir şeyi.. Eski bir aşna fişnaya gittin mi? Mutlaka bir yere uğramış yaramazlık yapmışsındır. Anlarsın ya haydi söyle bakalım..\
+**Yaşar** - (sırıta sırıta) Aman kaymakam bey Vallahi beni mahcup ediyorsunuz.\
+**Ka[ymakam]** - Ne var mahcup olacak be  ben de erkeğim haydi.. Açıl. Ben öyle istiyorum. evli bir kadın mıydı ha..\
+**Yaşar** - (Sırıtarak) Yok canım kaymakam bey bir çamaşırcı idi\
+**Ka[ymakam]** - Ne bir çamaşırcı mı?\
+**Yaşar** - Evet.. hani suvarinin evine gitmiştim ya.. Ama darılmaca yok kaymakam bey.. \
+**Ka[ymakam]** - Yok yok haydi (Kendi) Aman Yarabbi şu dünyaya bakın.\
+**Yaşar** - Oraya gitmiştim.. Ondan sonra efendim beni mutfağa aldılar. Orada bekledim. Beklerken de bu çamaşırcı orada iken koca bir leğen içinde çamaşır çitiliyordu. Bir yandan da yüzüme bakıp bakıp, gevrek gevrek gülüyordu. dayanamadım kaymakam bey tabakayı çıkardım bir hazır cigara uzattım, nah dedim beraber tellendirelim biraz soluk al..Aldı. Ondan sonra efendim bana elin titriyor dedi. Ben de ona yalnız elim değil her tarafım titriyor dedim. Artık sonrasını bilmiyorum.. Gözüm kızmış çamaşırcının beline sarılmışım.. Sonra efendim o da ıslak ıslak elleriyle, kollarımı yakaladı var kuvveti ile çekmeye başladı. Aman dedim, cankurtaran..\
+**Ka[ymakam]** - (Keserek) Pekala bitir, bitir artık..\
+**Yaşar** - Nerede efendim bitiremedim.. Sonra üstümüze geldiler. Demir de tutmadı..\
+**Ka[ymakam]** - Kes dedim sana (Kendi) Süphanallah Süphanallah\
+**Yaşar** - Efendim siz emretmiştiniz de..\
+**Ka[ymakam]** - Pekala.. Bitir artık..\
+**Yaşar** - Başüstüne kaymakam bey..\
+**Ka[ymakam]** - (Kendi) Seha hanım'ın muhibbelerinden birisiyle değil.. Bir çamaşırcı karısıyla..
+ Ha.. (Necdet görünür)\
+**Necdet** - Kaymakam bey beni mi istemişler?\
+**Ka[ymakam]** - Evet yaklaş bakalım Yaşar..\
+**Yaşar** - (Kendi hayretle) Vay bizim adaşmış bu da Yaşar ha..\
+**Ka[ymakam]** - (Yaşar'ı göstererek) Bak kim gelmiş iyi değil mi? (Gülerek aralarından çekilir)\
+**Necdet** - (Kendi) Deminki bahriyeli (Birbirlerine garip garip bakışırlar)\
+**Ka[ymakam]** - Eyy.. Niye öyle birbirinizn yüzüne baka kaldınız. Gemi arkadaşın Şemsi'yi tanıdın mı?\
+**Necdet** - Şemsi mi?\
+**Ka[ymakam]** - Ulan arkadaşını tanımıyor musun?\
+**Necdet** - Ha.. Tanımaz olur muyum efendim? Bizim koca Şemsi'yi tanımaz olur muyum.. (Yaşar'a yaklaşarak) vay Şemsi'ciğim! Safa geldin azizim. Nasılsın? (Kucaklaşırlar)\
+**Yaşar** - İyiyim iyiyim.. (Kendi) Bu da kim.. Sanki kırk yıllık ahbap gibi beni kucaklıyor..\
+**Necdet** - Vallahi seni gördüğüme ne memnun oldum, biliyor musun? Ey.. Ötekiler, gemidekiler nasıl? İyilerdir ya\
+**Yaşar** -  Gemidekiler mi? İyi.. İyi hepsi iyidir.\
+**Ka[ymakam]** - Yaşar..\
+**Necdet** - Kaymakam bey.\
+**Ka[ymakam]** - Git derhal haber ver..(Fikrini değiştirerek) Yok yok.. Ben kendim giderim. (Girerken bir daha dönüp dışarı bakarak kendi) Bir de Seha Hanım bizim damadı bu herife benzetiyor.. \
+
+## Sekizinci Meclis
+
+     [**Yaşar** - **Necdet** - sonra Kaymakam]
+
+**Yaşar** - Ne oluyoruz.. Bu evde bir alaya aldılar galiba. Sahi senin adın Yaşar mı hemşeri..\
+**Necdet** - Evet!.\
+**Yaşar** - Hem de Aytaş'da öyle mi?\
+**Necdet** - (Endişe ile) Evet !.\
+**Yaşar** -  Haydi canım.. Sen aç da.. başınla alay et. Kendinin Yaşar, Aşcı Yaşar olduğuna emin misin?\
+**Necdet** - Emin olmaz olur muyum azizim.. Yani bak sana anlatayım. benim adım Yaşar ama kendim değil.. Yani hem Yaşar'ım hem değilim doğrusu.. İsmim Yaşar, Kendim Necdet'im..\
+**Yaşar** - Ne.. Sen Necdet'sin ha.. Necdet.. Sensin ha (Gülmeye başlar) \
+**Necdet** - Ne gülüyorsun ben Necdet'im.. Yaşar olan öteki onun adı Yaşar..\
+**Yaşar** - Öteki mi?\
+**Necdet** - Evet ama.. Şimdi artık o da Yaşar değil!.. Binaenaleyh ben Necdet olduğum halde Yaşar'ım.. \
+**Yaşar** - (Meselenin içinden çıkamayıp gülmeye başlar) Ulan amma zihnim karıştı be.. şimdi yaşar'la üç oldu ha..\
+Necdet- Hayır üç değil iki..\
+**Yaşar** - Ne ikisi be? Öyle ise ben kimim? Zorla bana kendimi kayıp ettireceksiniz..\
+**Necdet** -  Nasıl sen Şemsi değil misin?\
+**Yaşar** - Yoo..\
+**Necdet** - Sahi mi azizim\
+**Yaşar** - Nah istersen yemin ederim: Vallahi, Billahi, iki gözüm önüme aksın ki..\
+**Necdet** - Öyle ise karın Seha Hanım da karın değil\
+**Yaşar** -  Nasıl benim karım mı varmış, iyi be.. Ben Yaşar'ım ayol.. Aşcıbaşı Yaşar. Ezelden bekar. Ben siz değilim ki karım  olsun.\
+**Necdet** - Peki ama.. Burada bizim evdeki Yaşar kim?\
+**Yaşar** -  Buradaki yaşar mı? Senin anlayacağın o da Şemsi'dir\
+**Necdet** - Ne Şemsi mi?\
+**Yaşar** - Evet, Yaşar.. O benim ben de oyum (Sırıtır) Çaktın mı dalavereyi?\
+**Necdet** - (Şaşkın, başını ellerinin içine alarak) Dur, dur iki gözüm sne Yaşar osun, Necdet Yaşar da sensin hayır o da Yaşar. Yani Necdet de Yaşar.. Aman Yarabbi hesabın içinden çıkamadım ama meseleyi anlamaya başlıyorum galiba..\
+**Yaşar** - Aferin sana. Ben hesapta dahil değilim ama yine meselenin içine karıştım. Yine birşey anlamıyorum. iyi ama şunu söyle arkadaş: Bu kaymakam neci oluyor..\
+**Necdet** - Kaymakam Gazanfer Kaptan, yeni Karadeniz Sevahili Bahriye kumandanı\
+**Yaşar** - (Sıçrayarak) Ne dedin ne dedin?\
+**Necdet** -  Karadeniz Sevahil Umum Bahriye kumandanı.. Yeni tayin edildi.. \
+**Yaşar** -  Hadi canım şerm-ağızlığın sırası mı, yoksa bana dolma mı yutturacaksın..\
+**Necdet** - Dolma molma yutturduğum yok.. Alayın sırası değil arkadaş..\
+**Yaşar** - Eyvah desene ki bir çuval inciri berbat ettik. Ben buradan palamarı çözüyorum. Bana bak Necdet olan Yaşar, Yaşar olan Şemsi'ye söyle: Şemsi  olan Yaşar, Yaşar olarak gidiyor. (Dibe doğru gider)\
+**Necdet** - (Birşey anlamadan) Bir daha söyle, bir daha söyle bakayım..\
+**Yaşar** - Sana söyledim Necdet olan Yaşar dedim.Yaşar olan Şemsi'ye söyle: Şemsi olan Yaşar, Yaşar olarak.. (Birden keserek)  Oo.. Aman Yarabbi mümkünnü yok, sıvışamam.. Daha tezkeremi, elde edemedim.\
+**Necdet** -  Tezkereni mi? Tezkeren yok mu?\
+**Yaşar** - Var ama Şemsi olan Yaşar alıp getiremedi..(Kaymakamın sesi işitilir)\
+**Ka[ymakam]** - (Dışarıdan) Aşağıki salonda..\
+**Yaşar** - (Korku  içinde) Aman Şemsi kaymakam.. Ben yine deliğe tıkılıyorum.. (eliyle gösterir) Benim için gitti dersin\
+**Necdet** - Peki..\
+**Yaşar** - (Girerken( Ah babm.. İzinliyim ama.. Haydi deliğe..\
+
+
+## Dokuzuncu Meclis
+
+     [Necdet-sonra Kaymakam-sonra Seha]
+
+**Necdet** - (Yalnız) Tekrarladığım şeylerden birşey anlayamadım..\
+**Ka[ymakam]** - (Girdiği yerden) Gelin gelin hanımefendi çabuk vakitte (?)  müjdemi isterim ama (Sahneye bakıp yaşar'ı göstererek) Eyy hani ya.. Şemsi nerede?.\
+**Necdet** - Şemsi çıktı kaymakam  bey..\
+**Ka[ymakam]** - Çıktı mı? Gitti mi?\
+**Necdet** - Evet efendim\
+**Seha** - (Girerek) Müjdeniz ne imiş bakalım kaymakam bey\
+**Ka[ymakam]** - Müjdem şu ki.. Zevciniz geldi.. Bir dakika evvel de burada idi..\
+**Seha** - (Pek mütehayyir) Zevcim mi? Sahi mi kaymakam bey? Siz gözünüzle gördünüz mü?\
+**Ka[ymakam]** - Böyle sizi nasıl görüyorsam onu da böylece görmüştüm\
+**Seha** -  Yanılmadığınıza emin misiniz?\
+**Ka[ymakam]** - Nasıl emin olamam  ki tezkeresine  baktım\
+**Seha** - Nasıl tezkeresi de..\
+**Ka[ymakam]** - Gördüm efendiciğim zaten.. Hah.. Durun herhalde uzak olmamalıdır. (Necdet'e) Koş arkasından Yaşar.. Ve onu icabederse cidden [dizgi hatası- cebren olmalı] geir buraya\
+**Necdet** - Peki ama kaymakam bey..\
+**Ka[ymakam]** - Sana koş diyorum behey şamandıra kafalı herif, hala duruyor..\
+**Necdet** -Koşuyorum, koşuyorum (Kendi) Ah keşke bütün angarya böyle olsaydı.. (Çıkar)\
+			
+## Onuncu Meclis
+
+     [Evvelkiler - Necdet'ten maada]
+  
+**Seha** - Peki kaymakam bey zevcim buraya ne yapmaya gelmiş ?.\
+**Ka[ymakam]** - Arkadaşı Yaşar'ı görüp kucaklamaya gelmiş..\
+**Seha** -  Kendisine benim burada olduğumu söylediniz mi?\
+**Ka[ymakam]** - Ne.. O kadar enayi miyim ben? Aman. Affederssiniz ağızımdan kaçtı.. Bunu söyler miyim hiç.. Once  onun güzelce ağızını aradım. Ama hiç oralarda olmadan şöyle kurnazca... bana herşeyi itiraf etti.\
+**Seha** - Herşeyi itiraf etti mi?\
+**Ka[ymakam]** - Evet.. Yalnız o dediğiniz gibi sizi muhibbelerinizden birisiyle değil bir çamaşırcı karısıyla aldatmış..\
+**Seha** - Bir çamaşırcı ile mi?\
+**Ka[ymakam]** - Evet suvarisinin evinde mutfakta bulduğu bir çamaşırcı.\
+**Seha** - Aman Yarabbi.. Kocam bir çamaşırcı karısıyla ha? İşte bu yalandır.\
+**Ka[ymakam]** - Orasını bilmem.. Fakat bana anlattığı bu idi. Hem bana kalırsa doğru idi.. Çünkü Seha Hanım, affedersiniz ama, genç bir adam birçok senelik perhizden sonra.. Bu derece gözleri dönebilir..\
+**Seha** - Şu halde demek ki Yaşar hakiki Yaşar'mış..Öyle mi herhalde ne olursa olsun bana hiyanet ettiği muhakkak ya...\
+**Ka[ymakam]** - Hah.. Siz ona bakım.. Hem sonra zevcinizin zevcinizin bizim damatla olan müşabahatına gelince: Darılmayın ama Seha Hanım siz biraz mübalağayı seviyorsunuz..\
+**Seha** -  Aman kaymakam bey onun su götürüryeri yok.. Necdet Bey kocamın bir eşi..\
+**Ka[ymakam]** - Herhalde ben gözlerime aldanmadığıma eminim.. Nerede Necdet Bey, nerede buraya gelen Şemsi..\
+**Seha** -  Aman Yarabbi şimdi onu görebilmek için ne isteseler verirdim.. Allah vere de Necdet Bey arkasından yetişmiş olsun.\
+**Ka[ymakam]** - Necdet mi? Yaşar demek istiyorsunuz değil mi?\
+**Seha** - Ha evet.. Yaşar, Yaşar (kendi) Birbirine karıştırıyorum.\
+**Ka[ymakam]** - O da öyle hımbıl birşey ki.. Durun bir de ben bakayım\
+**Seha** -  A.. Rica ederim zahmet etmeyin kaymakam bey\
+**Ka[ymakam]** - Zararı yok efendim. Zevcinizi buraya mutlaka getireceğim. ya dirisini ya ölüsünü.. (Çıkar)\
+
+## On Birinci Meclis
+
+     [**Seha** - sonra Yaşar- sonra Kaymakam ve Necdet]
+
+**Seha** - (Yalnız) Allah düşmanı bu kadar karışık bir berzaha düşürmesin..\
+**Yaşar** - (Kapıdan başını çıkararak) Oh çok şükür.. Kaymakam fayrap etmiş.. Oo bir kadın.\
+**Seha** -  (Göğsünde sakladığı tezkereyi çıkarark) Demek bu vesika hakiki Yaşar'ın tezkeresi imiş.\
+**Yaşar** - (Seha'nın elindeki tezkereyi görerek) Benim tezkerem.. (Birden Seha'nın arkasından tezkereyi kapar)\
+**Seha** - (Korku ile haykırarak) Ay..\
+**Yaşar** - Ha şöyle ele geçirdim ya..\
+**Seha** - Siz kimsiniz? Verin şu tezkereyi bana..\
+**Yaşar** - Yoo kusuruma bakmayın ama işte onu yapamam. Çünkü o benim izin tezkerrem.. \
+**Seha** - Sizin mi?\
+**Yaşar** - Benim ya.. Benim malım. Benim Yaşar olduğumu bu kağıt tasdik ediyor.\
+**Seha** - Yaşar mı?\
+**Yaşar** -  Evet.. KAradeniz Umum Bahriye Kumandanlığı maiyetinde Aytaş Karakol Gemisi Aşcıbaşısı Yaşar..\
+**Seha** - (Mütehayyir kendi) Ya.. Demek ki..\
+**Ka[ymakam]** - (Necdet'i bir kulağından tavlamış olduğu halde girer) Hayvan sen yetişemedin ha..\
+**Necdet** -  Efendim bir merkebe atladığını gördüm ama arkasından koşamadım\
+**Yaşar** -  Al bakalım yine geldi..\
+**Ka[ymakam]** - (Ortaya ilerlerken Yaşar'ı görüp hayretinden haykırarak) Ooo.. İşte burada ya..\
+**Seha** - (Kendi) Ne..\
+**Necdet** - (Kendi) Eyvah şimdi ne yapacağız.\
+**Ka[ymakam]** - (Necdet'e) Bir de bana aval kandırır gibi merkebe atladığını gördüm dersin değil mi?\
+**Necdet** - (Şaşkın) Öyle gibi gördümdü kaymakam bey\
+**Ka[ymakam]** - Gibi gördündü ha.. Bana bak çabuk defol gözümün önünden..Yoksa şimdi kaburga kemiklerini parça parça ederim.\
+**Necdet** - (Çekilirken) Başüstüne efendim (Kendi) O.. Tavanarasına çekilipte sekiz gün kimseye görünmem (Şiddetle çıkar)\
+
+## On İkinci Meclis
+
+     [**Yaşar** - Kaymakam - Seha]
+
+**Ka[ymakam]** - (Dönüp Seha'nın karşısına gelerek) Eyy.. Hanımefendi nihayet zevciniz Şemsi Bey'e kavuştunuz ya. Ben sizi yalnız..\
+**Seha** - fakat kaymakam bey.. Bu adam benim zevcim değil..\
+**Ka[ymakam]** - O değil mi?\
+**Yaşar** - (masum bir tavırla) Hanımın zevci Şemsi mi? Ben ni? Bu işte bir yanlışlık var.. Kaymakam bey..\
+**Ka[ymakam]** -Nasıl yanlışlık var?  Demin adını sordum Şemsi dedin ya !.\
+**Yaşar** - (Soğukkanlılıkla) Nasıl olur kaymakam bey? Nasıl diyebilirim? Ben daha şimdi geldim..\
+**Ka[ymakam]** - Şimdi mi geldin?.. Allah Allah demin de esrar çektim zannederim (Kendi) Bu andavallı benimle alay ediyor galiba.. (Yüksek) Pekala kimsin bakalım? adın ne?\
+**Yaşar** - Yaşar kaymakam  bey !.\
+**Ka[ymakam]** - (Sıçrayarak) Yaşar mı ?.\
+**Yaşar** - Evet efendim. Karadeniz Umum Bahriye Kumandanlığı maiyetine memur Aytaş KArakol Gemisi aşcıbaşısı\
+**Ka[ymakam]** - Ne halt eder ağanın beygiriabuk vesikanı çıkart..\
+**Yaşar** - (Seha'dan kaptığı vesikayı verip) Buyurun efendim\
+**Ka[ymakam]** - (Vesikaya göz atarak) Süphanallah.. Rüya mı görüyorum acaba?\
+**Yaşar** -(apar) kaymakamda hoşafın yağı kesildi\
+**Ka[ymakam]** - (Kendi) Allah Allah bu vesika Yaşar'ın tezkeresi.. O halde öteki Yaşar kim.. Bu kadar benzeyiş..Bakalım bu çorbanın içinden nasıl çıkacağız..(Tezkereyiiade ederek) Bu sefer artık yanlışlık filan yok. Sen Yaşar'sın değil mi?\
+**Yaşar** - Evet efendim\
+**Ka[ymakam]** - Tekrar et bakalım: Sen kimsin !.\
+**Yaşar** - Yaşar kaymakam bey. Vallahi, Billahi, iki gözüm önüme aksın \
+**Ka[ymakam]** - Peki peki.. Sus (kendi) Ben bu dalaverayı çakarım ya.. (Çıkar)\
+
+
+##  On Üçüncü Meclis
+
+     [Seha- Yaşar)
+
+**Seha** - (Deminki sahneyi bütün kuvvetiyle dinlemiştir.Şiddetle Yaşar'ın yanına giderek kendi) Zannederim ki herşeyi anlamaya başlıyorum.\
+**Yaşar** - Adam gemisini kurtaran kaptandır.. Öteli Yaşar umurumda mı.. Onlar da kendi başlarının çaresine baksınlar..\
+**Seha** -  Tebrik ederim Yaşar Bey. Pek yere bakan yürek yakanmışsınız..\
+**Yaşar** - Ben mi? eh sayenizde bir parça öyleyimdir !. Ama belli etmem. Eskiden daha fena idim. Şöyle pek içimin çektiği bir kadın elimden zor kurtulurdu.\
+**Seha** - hayır onun için demiyorum. Göründüğünüz gibi değil pek kurnazmışsınız demek istiyorum.\
+**Yaşar** - Ben mi? Ha, bu mu? Size yalnız şunu söyleyim ki gemide üçüncü o [düşmüş bir kelime var] bizim candan ahbaptır.Bana her zaman: Ulan Yaşar şeytana dümencilik ediyorsun derdi.\
+**Seha** - (Gülerek) Hah hah hiç şaşmam.. Fakat deminki işte size jarşı pek ziyade nazik davrandığımı inkar etmezsiniz ya! Tezkereyi elimden kaptığınızı kaymakam beye pekala da söyleyebilirdim. Ama.. Yapmadım..\
+**Yaşar** - Aman yavaştan ha.. Geçtim olsun duyar da..\
+**Seha** - Merak etmeyin benim ağızım pektir.. Zaten bu tezkereyi size vermemi söyleyen Şemsi Bey'in kendisi idi.\
+**Yaşar** -  Ya! Beni çürük tahtaya bastırıp ağızımdan lakırdı  kapacaksınız öyle mi? Bize aytaş'lı derler hanım. Biz ser veririz de sır vermeyiz. . Peki madem ki benim tezkeremi vermenizi size Şemsi Ağabey'im söyledi, öyledir de niçin tezkeremi kaptığım zaman tekrar elimden almak istediniz?\
+**Seha** -  Bu sizin hakikaten Yaşar olup olmadığınızı anlamak içindi..\
+**Yaşar** - Doğru be.. Ey Vallahi hani siz de şeytana kaptanlık edebilir bir kadınmışsınız.\
+**Seha** -  Ben değil bütün kadınlar isterlerse öyledir (Sandalyeye oturarak) Şemsi Ağabey'iniz çok sevimli bir çocuk. Yalnız bir kusuru var. O da fazla çapkınlığı seviyor.\
+**Yaşar** - Oo.. Çapkınlığına diyecek yoktur. Köküne kadar çapkın bir erkektir.\
+**Seha** - iyi ama.. Herhalde birgün karısına yakayı ele vereceği muhakkak..\
+**Yaşar** - Ben ona zaten söyledim. Şemsi Ağabey dedim, sen de yakayı ele vermezsen ben bu bıyıkları dibinden keserim dedim. Ama o aptal değilse gözünü dört açmalıdır. Zaten bir insan evvelinden her cihetce ayağını tetik almalıdır. Malum ya.. Kadın bir, silah iki, beygir üç.. Bu üç şeye inan olmaz.. \
+**Seha** - (Gülerek) Oo.. Kadınlar için bilmem ama.. Ötekiler için hakkınız var.. Maateessüf de ekseri evvela erkekler de zevcelerine komşu veya ahbaplarının karılarıyla hiyanet ederler.\
+**Yaşar** - (Gülerek, arkadaş gibi) Öyle öyle. Komşunun tavuğu komşuya kaz.. Karısı kız..\
+**Seha** - Evet öyle ama.. Şemsi Ağabey'iniz[in] de Necdet Bey'in karısıyla olan münasebeti kendisine pek pahalı mal olacak galiba.. \
+**Yaşar** - Ama bu öyle birşey ki, çok şaşılacak birşey.. Kendisi Necdet Bey'in karısına uzaktan tutuldu.. Resminden. Resmini gördüğü günden beri onunla oynaş için can atıyor. Geçen hafta ikimizin birden iznimiz çıktı. Bana Yaşar'cığım ikimizin de iznimiz var.. İstanbul'a varınca vesikanı bana verirsin, ben de kendiminkini sana veririm kim kime dum duma üç beş gün süt kardeşinin evinde senin yerine kalırım, dedi. Aman Şemsi Ağabey tanıdığımız kimseleri böyle mandepsiye bastırmak ayıp değil mi?" dedim. "Yaşar'cığım sen beni bu kadar mı seversin? Ben de sana bir daha kardeşim dersem, bana da Fatih'li Şemsi demesinler..\
+**Seha** - Siz de razı oluverdiniz değil mi?\
+**Yaşar** -  Ne yapayım.. Benim kalbim yumuşaktır. Efendim hiç kimsenin bana darılmasını istemem..\
+**Seha** - (Kalkarak kendi) Zannederim ki aldığım malumat kafidir. \
+**Yaşar** - (Kendi) Ah.. Böyle bir kadın insanı baştan çıkarabilir.\
+**Seha** - Aşcıbaşı bana bu kadar malumatı verdiğinizden dolayı size ne kadar teşekkür etsem azdır.\
+**Yaşar** - (Endişeli) Malumat mı? Estağfurullah ben bunları size malumat diye söylemedim; hani sözün gelişi..\
+**Seha** - Ne suretle olursa olsun.. Bu kadına iyilik ettiniz. Verin elinizi sıkayım..\
+**Yaşar** -(Elini uzatarak) Buyrun..\
+**Seha** - (Elini burakmadan) HA.. Şimdi size birşey daha soracağım\
+**Yaşar** - Sorun sorun efendim\
+**Seha** -  Şemsi Bey'in yüzündeki çizgi nedir kuzum..\
+**Yaşar** - Ne mi.. Ha o mu.. Birgün Şemsi Ağabey'im güvertede ayağı kalkıp [kayıp] düşmüş yanağını da bir demire çarpmış. Bir de kamarasına gittim ki: Al kan içinde..\
+**Seha** -  Kafi Yaşar.. Siz çok saf kalpli bir bahriyelisiniz. Askerden çıktıktan sonra bize uğrarsanız ben de size iyilik edebilirim. Kocam Şemsi size bizim evi gösterir.\
+**Yaşar** -(Afallayarak) Kim dediniz? Kim dediniz? Kocanız.. Demek ki siz .. Sizin kocanız.\
+**Seha** - Evet Şemsi Ağabey'iniz benim kocam..\
+**Yaşar** - Aman Yarabbi.. Ben ne halt ettim\
+**Seha** - Teşekkür ederim Yaşar.. Çok teşekkür ederim\
+**Yaşar** - Tüü.. Yoksa bir çuval inciri berbat mı ettim! (Seha çıkar)\
+
+## On Dördüncü Meclis
+
+     [**Yaşar** - sonra Şemsi]
+
+**Yaşar** - (Bitik bir halde) kadın değil şeytan.. Kurnazlıkta beni fersah fersah geçti..Meğerse beni iskanil ediyormuş ha..\
+**Şemsi** - (İçeri girerken) Eczacı bizim bugünkü telefon muhaveratımızdan usanmıştır.\
+**Yaşar** - Eyvahlar olsun Şemsi Ağabey'im de geldi.\
+**Şemsi** - (Yaşar'ı görerek) Ne.. Sen buradan niye çıktın bakayım..\
+**Yaşar** - Şemsi Ağabey'ciğim beni dinle (Birden tevakkufla [durarak]) Aman dur.. Evvela.. Şu vesikayı al.. (Verir)\
+**Şemsi** - Demek ki seninkini ele geçirdin..\
+**Yaşar** - (Gözleri parlayarak) Hem öyle kurnazlıkla ki.. (Tezkereyi pantalonunun cebinden çıkarır şeraketinin [ortaklık, arkadaşlık(?)] cebine koyar)\
+**Şemsi** - Ne gibi ?..\
+**Yaşar** - Sonra söylerim. Şimdi beni dinle\
+**Şemsi** - Gördün ya tezkeren kaybolmamış..\
+**Yaşar** - Canım beni dinle diyorum be\
+**Şemsi** - Çabuk söyle..\
+**Yaşar** - Aldırma, metin ol.. Ey gözüm al bakalım planın sunturlusu.. Şemsi Ağabey sana kötü bir haberim var\
+**Şemsi** - Kötü bir haber mi?\
+**Yaşar** - Evet Şemsi Ağabey.. karın burada bu dam altında\
+**Şemsi** - (Gülerek) Amma yaptın ha.. Bu kadar mı kötü haberin\
+**Yaşar** - Vay.. Sen bunu daha evvel biliyor muydun?\
+**Şemsi** - Elbette herşeyi biliyorum yavrum !\
+**Yaşar** - İyi ama öyle ise işin bitik Şemsi Ağabey\
+**Şemsi** -  İşim bitik mi? Aklına şaşayım..\
+**Yaşar** -  İşin bitik diyorum, ben dinle\
+**Şemsi** - Sus. Kapa şimdi usturanı traş sırası değil. Merak etme be herşeyi halledeceğim..\
+**Yaşar** -  Sahi mi Ağabey..\
+**Şemsi** - Ben herşeyi halledeceğim dedim ya.. Şimdi sen rahat rahat gidebilirsin\
+**Yaşar** - Yaşa be Şemsi Ağabey, sen yaman bir tilki imişsin\
+**Şemsi** -  (Zaten meşgul) Şimdi mesele büyük bir cesaret daha göstermekte\
+**Yaşar** - Öyle ise ben gemiciliğe dönerim babam.. Allahaısmarladık Ağabey. Bak senin hatırın için bizim süt hemşireyi görmeden dönüyorum..\
+**Şemsi** -(Ona hiç dikkat etmeyerek) Hah.. Bu iyi hatırıma geldi. Bu iyi bir çare..\
+**Yaşar** -  Eyy gel bir öpüşelim de ben gideyim. Hişt Şemsi Ağabey! Tavşan ıykusu mu uyuyorssun\
+**Şemsi** - Yaşar iki gözüğm dur daha gitmiyorsun. Sana ihtiyacım var..\
+**Yaşar** -Pış sen.. Öyle yağma yok.. Ben faka bir defa basarım..\
+**Şemsi** - Yaşar\
+**Yaşar** - Yaşar Yaşar.. Yok Şemsi Aağabey.. Aman be.. Oyuncak oldum yahu.. Ben bu akşam Selamet'e biniyorum..\
+**Şemsi** - Yaşar'cığım..\
+**Yaşar** - Vallahi olmaz.. \
+**Şemsi** - Ya.. Yaşar ben de sana bir daha kardeş dersem bak. Görürsün sen\
+**Yaşar** - (Gevşeyerek) Etme be Şemsi Ağabey. Darılacak ne var bunda\
+**Şemsi** - Haydi oradan sen de. Senin gibi kardeş olmaz olsun. İskele babası..\
+**Yaşar** - Aman Yarabbi.. Azar başladı..\
+**Şemsi** - (Amirane) Haydi çıkar ceketini çabuk\
+**Yaşar** - Ceketi mi?\
+**Şemsi** - Sana çabuk ceketini ver diyorum (Ceketi çıkarır)\
+**Yaşar** - Peki Ağabey'ciğim al. Darılma, peki ama ne yapacaksın ?..\
+**Şemsi** - Ne yapacağımı görürsün. Haydi ver şunu.. (Yaşar verir) Şimdi bana cesaret lazım..\
+**Yaşar** - Vallahi olsa ondan da verirdim Ağabey'ciğim)\
+**Şemsi** - Çok söyleme başlığını da ver (Şemsi'nin [Yaşar'ın] attığı ceketi giyer)\
+**Yaşar** - Peki ama.. Ne olur, ne yapacaksın söyle de\
+**Şemsi** - Sonra sonra. Şimdi vaktim yok..\
+**Yaşar** -  Pekala buyurun.. Daha başka.. El torbamı da..\
+**Şemsi** - Şimdi hiç durmadan haydi deliğine..\
+**Yaşar** - Öyle ya hadi bakalım deliğe (Geçerken) Gemide ceza yiyen arkadaşınızı [arkadaşlarımızı] izinle İstanbul'a göndermeli. Bir daha mı (Yakasını ısırır) Allah yazdıysa  bozsun..\
+**Şemsi** - (Arkasından itierek) Hakkın var yavrum..\
+
+## On Beşinci Meclis
+
+     [**Şemsi** - sonra Kaymakam -sonra Yaşar]
+
+**Ka[ymakam]** - (İçerden) Allah Allah bu iş saklambaç oyununa döndü. Bu herif nereye gitmiş..\
+**Şemsi** - Kaymakam cesaret Şemsi..\
+**Ka[ymakam]** - (Girerek) Bu Yaşar olacak sahtekarı ele geçirmek mümkün olmayacak galiba.. (Şemsi'yi görerek) Oo.. Bizim damat..Çulu da değiştirmiş [İlerler) Necdet Bey oğlum Yaşar'ı gördünüz mü buralarda\
+**Şemsi** - (Oralarda değil) Affedersiniz Kaymakam Bey bir yanlışlığım mı var..\
+**Şemsi** - Evet efendim ben Yaşar değilim !\
+**Ka[ymakam]** - (Afallayarak) Ne! Siz benim damadım Necdet Bey değil misiniz?.\
+**Şemsi** - Aman Kaymakam Bey!\
+**Ka[ymakam]** - Hoppala.. Peki o halde kimsin?\
+**Şemsi** - Ben Şemsi'yim efendim.\
+**Ka[ymakam]** - (Sıçrayarak) Ne dediniz Şemsi mi?\
+**Şemsi** - Şemsi'yim Beyefendi.\
+**Ka[ymakam]** - Şemsi.. Siz.. Emin misiniz?\
+**Şemsi** - Aman Kaymakam Bey kendimi bilmez miyim?\
+**Ka[ymakam]** - Buraya ne yapmaya geldiniz..\
+**Şemsi** - Efendim.. Bizim tanıdık bir aşcı[başı]sı Yaşar var. bana burada süt kardeşi Pakize Necdet Hanım'ın olduğunu söylemişti. Ben iş için Ada'ya gelmiştim. Uğradım. Biraz evvel de tesadüfen zevcemin burada misafir olduğunu ve benim de fevkalade bir surette Necdet Bey'e benzediğimi haber aldım.\
+**Ka[ymakam]** - (Kendisini zorlayarak fakat yine pek hedîd [hiddetli]) Siz bana bakın efendi.. Galiba topunuz benimle alay etmeye karar vermişsiniz..\
+**Şemsi** - Rica ederim Kaymakam Bey\
+**Ka[ymakam]** - Ayol ben daha biraz evvel Şemsi'yi burada gördüm\
+**Şemsi** - (Mütehayyır) Şemsi'yi mi gördünüz?\
+**Ka[ymakam]** - Evet bu gözlerimle, demin, burada..\
+**Şemsi** - Kimi? Şemsi'yi mi?\
+**Ka[ymakam]** - Evet Şemsi'yi !\
+**Şemsi** - (Mütehayyir) Şemsi'yi mi görmüş? [?]\
+**Ka[ymakam]** - Siz de mi ikileştiniz? Öyle ise iki Şemsi'den birsi sahtekar. İkinizden biri sahtekarsınız! \
+**Şemsi** - (Şiddetle) Her halde ben değilim Kaymakam Bey.. Sahtekar olan öteki olsa gerek. Asıl Şemsi benim\
+**Ka[ymakam]** - Ya öyle ise göster bakalım tezkereni..\
+**Şemsi** - (Tezkereyi çıkarıp vererek) Buyurun Beyefendi\
+**Ka[ymakam]** - (Vesikaya göz atarak) Bu ne?\
+**Şemsi** - Görüyorsunuz ya Kaymakam Bey, vesikam..\
+**Ka[ymakam]** - Vesikan mı? Bu Yaşar'ın vesikası be..\
+**Şemsi** - (Kendi) Eyvah Bu sefer sağlam şapa oturdum..\
+**Ka[ymakam]** - Bir de Şemsi'yim diyordun ha..\
+**Şemsi** - Kaymakam Bey\
+**Ka[ymakam]** - Kaymakam Bey Kaymakam Bey.. İyi kaç saattir burada benimle oynayan bu çeteyi yakalayacağım.. Çabuk söyleyin: Yaşar'ın tezkeresi sizin elinizde ne geziyor? Burada Yaşar yazıyor. Yaşar. Siz Yaşar mısınız?\
+**Yaşar** - (Küçük salondan çıkarak) Beni çağırıyorlar galaiba\
+**Ka[ymakam]** - (Yaşar'i görerek) Hah..\
+**Şemsi** - (Kendi ) Buyurun cenaze namazına..\
+**Ka[ymakam]** - Sen yine çıktın mı meydana aşcıbaşı..\
+**Yaşar** - Kaymakam Bey (Şemsi Yaşar'a işaret eder oluyor gibi)\
+**Ka[ymakam]** - Sen kimsin bakayım?\
+**Yaşar** - (Soğukkanlı) Evet Kaymakam Bey daha Yaşar'ım. Yaşar da kalacağım.. \
+**Ka[ymakam]** - Ya.. Demek emr-i ahire değin Yaşar ha.. Ver bakalım vesikanı çabuk..\
+**Yaşar** - Buyurun Kaymakam Bey\
+**Ka[ymakam]** - (Vesikaya bakarak) Şemsi Nuri..\
+**Şemsi** - Hah..\
+**Yaşar** - (Şaşkın kendi) Vay anasını be vesikaları değiştirmeyi unutmuşuz..\
+**Ka[ymakam]** - Bu da Şemsi'nin vesikası..\
+**Yaşar** -\
+	  } Kaymakam Bey\
+**Şemsi** -\
+**Ka[ymakam]** - (Masaya bir yumrük vurarak) Hay canına yandığımın işi! Şimdi kaçıracağım.. Söyleyin diyorum size: İkinizden hanginiz Şemsi'siniz\
+**Şemsi** -\
+	  }  Benim\
+**Yaşar** -\
+**Ka[ymakam]** -  Aman Yarabbi Şimdi ikiniz de mi Şemsi oldunuz\
+**Şemsi** - Hayır Beyefendi. Hayır efendim. Bakın arz edeyim\
+**Ka[ymakam]** - Tiz [?].. Her ikiniz de götürüp deliğe tıkacağım anlaşıldı mı?\
+
+## On Altıncı Meclis
+
+     [Evvelkiler-Seha*]
+
+*Baştan beri Seha olan isim buradan itibaren "Seza" olarak dizilmiş\
+
+**Seha** - (Birden girerek) Bihude üzülmeyiniz Kaymakam Bey. İşte zevcim..(Şemsi'yi gösterir)\
+**Şemsi** - (Kendi) Çok şükür..\
+**Ka[ymakam]** -  Bundan emin misiniz? Bundan aldanmıyorsunuz ya!\
+**Seha** - Heyhat Kaymakam Bey mateessüf bu sefer eminim..\
+**Şemsi** - Mateessüf mü? Birçok senelik hasretten sonra beni böyle mi karşılıyorsun Seha\
+**Seha** - (Kocasına bakıp, birşey söylemeye lüzüm görmeden) Affınızı rica ederim Kaymakam Bey; zevcimle beni bir dakika başbaşa bırakırsanız memnun olurum\
+**Ka[ymakam]** -  Emredersiniz Seha Hanım (Çıkarken kendi) Hiç şüphe yok kocası.. Öyle ise naıl oluyor da izin tezkeresinde Yaşar yazılı..\
+**Şemsi** - (Cebri bir şetaretle [zorlama bir neşe ile]) Ah Seha'cığım.. Seni iyice şaşırttım değil mi? İtiraf et ki sana bu latifeyi yapacağımı hiç hatırına getirmiyordun ya.. Ha anlıyorum.. Bıyıklarımı niçin kestirdiğim sormak istiyorsun, değil mi? Bak anlatayım.. tasavvur et ki sana bu latifeyi hazırladığım zaman birdenbire..\
+**Seha** - (Gayet sakin) Nafile sıkıntıya girmeyiniz.. Çenenize yazık.. (Yaşar'ı göstererek) Yaşar bana herşeyi anlat[tı].\
+**Şemsi** - Ne !\
+**Yaşar** - Sana ben işin bitik diye haber vermemiş miydim?\
+**Şemsi** - Bana hiyanet ettin ha\
+**Yaşar** - Vallahi.. Benmim kabahatim yok. Sizinki beni faka bastırdı. Ben de alık gibi bir bir anlattım.\
+**Seha** - Yaşar Efendi azizim siz de biraz Şemsi ile beş dakika yalnız bırakır mısınız?\
+**Yaşar** - Peki efendim (Kendi) Ah şu kadınların dili; insana her şeyi yaptırır.\
+
+## On Yedinci Meclis
+
+     [Şemsi-Seha]
+
+**Şemsi** - (Karısının üstüne giderek) Seha'cığım benim..\
+**Seha** - (Şiddetle) A?. Yoo o kadar acele etmeyin Necdet Beyefendi\
+**Şemsi** - Necdet rolüne makerahe, mecburiyetle girdiğimi anlaman icap eder\
+**Seha** - Acaba yaşar rolüne girmeniz de yine bir mecburiyetle mi? Öyle mi? Yarabbi demek ki eğer Pakize'yi ziyarete gelmeseydim, çocukluk arkadaşımın aşkı olacaktınız ha.. \
+**Şemsi** - Ben bunun böyle olduğunu ne bileydim Seha'cığım..\
+**Seha** - Yarabbi kendini müdafaa için de bulduğu şeye bakın\
+**Şemsi** - Karıcığım işte itiraf ediyorum: Ben mücrimim. Senin en son mektubundaki hırçın sözlerin tesiri altında ne yapacağımı bilemiyordum. Aklımı kaybetmiştim. Fakat yalnız aklım, kalbimi değil.. O yine eskisi gibi yalnız senin\
+**Seha** - (Keserek) Beni bütün bu yaldızlı kelimelere kanar mı zannediyorsunuz. Katiyen. Bir buçuk senelik bir ayrılıktan sonra bana bunu mu yapacaktınız? Katiyen, anlıyor musunuz?\
+**Şemsi** - Affet karıcığım. Bak af diliyorum. Gemide düşüp yanağımı patlattığım zaman hasta olmuştum.. Bu sırada bir hafta mektubunu geciktirdim diye mektubunda bana kocalık haysiyetine dokunacak kelimeler yazıyordun. Beni üzmekten kastın neydi? Ben de seni üzmek için u latifeyi tertip ettim. Ödeştik.. Haydi affettim de de öpüşelim..\
+**Seha** - Hayır. Siz bu hiyanete latife mi diyorsunuz? Pakize'yi latife olsun diye mi öptünüz? Niçin sükut ediyorsunuz..\
+**Şemsi** - Şunun için ki.. Seha.. Ne söylesen haklısın. Sana karşı bir hiyanet olduğunu düşünemeyecek kadar kendimi maceraya kaptırmıştım..\
+**Seha** - Bir de utanmadan buna katır [?] diyorsun.. İtiraf ediyorsun değil mi?\
+**Şemsi** - Hayır utanarak itiraf ediyorum Seha..\
+**Seha** - Bu derece yüzsüz olduğunuzu bilmezdim.. Bir dakika daha fazla yüzünüzü görmeye tahammül edemeyeceğim\
+**Şemsi** -  Nereya gitmek istiyorsun deliliğin lüzumu yok.\
+**Seha** - Neresi canım isterse oraya gidiyorum ve bu dakikadan itibaren kendimi serbest addediyorum..Anladınız mı? Madem ki siz istediğiniz maceraya kapılmakta hürsünüz ben de aynı derecede hür olmak istiyorum. Süt kardeşiniz size mübarek olsun. Bu evde bir dakika daha durmak bana ağır geliyor. Saat beş vapuruyla gidiyorum.. Haydi bana bir araba çağırın..\
+**Şemsi** - Seha'cığım beni dinle.. Latifeyi bırak..\
+**Seha** - Ya gitmiyor musunuz? Zahmet etmeyin ben kendim giderim\
+**Şemsi** - Gidiyorum (Kendi) Zaten benim de istediğim o. Bir araba çağırır iskeleye beraberce gider oradan da haydi Bayezit'e..\
+**Seha** - Ne duruyorsunuz? \
+**Şemsi** - Görüyorum [Gidiyorum] karıcığım (Kendi) Ben sana kendimi affetiririm ya\
+			(Çıkar)
+			
+##     On Sekizinci Meclis
+
+     [**Seha** - Kaymakam - Necdet- Pakize- Yaşar- Şemsi]
+
+**Seha** - Aptal bana kendisini affettirecek kelimeyi bulamadı.\
+Kaymakam -  (Girerek) Ey Seha Hanım kocanıza hiyanetini itiraf ettirebildiniz mi?\
+**Seha** - Evet.. hepsini itiraf etti. Kaymakam Bey eğer beni elan seviyorsanız\
+**Ka[ymakam]** - (Keserek) Ah hanımefendi seviyor muyum? Yanıyorum, tutuşuyorum, tam istim bekliyorum..\
+**Seha** - (Bir tereddütle) Öyle ise Kaymakam Bey ben sizinim..\
+**Ka[ymakam]** - (Kollarını açar) Ah Seha, Seha, Seha'cığım\
+**Seha** - (Şiddetle silkinerek) Hayır hayır bırakınız (Kendini bir iskemleye atar ve ağlar) Aman Yarabbi ne felaket, ne bedbahtım..\
+**Ka[ymakam]** - (Kendi) Hoppala.. Hala kocasını seviyor.\
+**Seha** - (Mahcup) Kaymakam Bey affediniz. Ne yapacağımı bilemiyorum.\
+**Ka[ymakam]** - İtizara [özür dilemeye] lüzum yok.. Seha Hanım, ben anladım. Şimdi anladım.\
+**Pakize** - (Necdet'le girerek) A.. Seha'cığım ağlıyor musun?\
+**Seha** - Hayır Pakize'ciğim.. Demin bir baş dönmesi geçirdim de.. Ah kardeşim biz kadınlar fenalıkta erkeklerle boy ölçüşemeyiz.. çapkın kocalarımızdan intikam almaya yemin ederiz fakat son dakikada iffetimiz isyan eder, kalbimiz kirlenmeye tahammül edemez. Eminim ki sen de böylesin. Sen de affedeceksin..\
+**Pakize** - Evet ben de affettim Seha'cığım.\
+**Seha** - Nasıl..\
+**Pakize** - Beş dakikadan beri.\
+**Ka[ymakam]** - Ne? Senin kocan da mı aldatmıştı?\
+**Necdet** - Topu, topu bir defacık Kaymakam Bey. ama size yemin ederim ki bu sonu olacak..\
+**Ka[ymakam]** - (Şaşkın) Nasıl sen Yaşar?.\
+**Necdet** - Hayır Kaymakam Bey Yaşar değil, Necdet..\
+**Ka[ymakam]** - (Daha ziyade şaşkın) Bu nasıl şey\
+**Yaşar** - Şimdi Necdet oldu.\
+**Pakize** , **Necdet** - Evet! Ya..\
+**Ka[ymakam]** - Ey öyle ise aşcı Yaşar nerede, aşcı Yaşar!\
+**Yaşar** - (Temenna ederek) Mevcut efendim, Yaşar mevcut.. Şeytanın art ayağı, dümencisi..\
+**Şemsi** - (Girerek) Arabayı çağırdım\
+**Necdet** -  (Şemsi'ye) Azizim kardeşim Necdet'ciğim.. Hayır Yaşar'cığım..Aman Şemsi'ciğim, karının ayaklarına kapan. seni affediyor\
+**Şemsi** -  (Seha'ya koşarak) Ah.. Karıcığım.. Biliyordum zaten.. Affettin ha !.\
+**Ka[ymakam]** - Durun be.. Şaşkına döndüm. Mesele kördüğüm oldu..İçinden çıkamıyorum.\
+**Şemsi** - kaymakam Bey size kördüğümü bu akşam yemeğinde açarız. Ve eminim ki siz de affedeceksiniz..\
+**Ka[ymakam]** - Sizi af mı etmek.. Beni oyuncağa çevirdiğiniz halde mi? Allah göstermesin\
+**Necdet**, **Pakize** - Ah benim güzel dayıcığım affet..\
+**Şemsi**, **Seha** - Bizm hatırımız için Kaymakam Bey.. (Etrafını alırlar)\
+**Ka[ymakam]** - Peki, peki, madem ki hepiniz yalvarıyorsunuz öyle olsun!. Affediyorum..\
+**Necdet**, **Pakize** - (Müteşekkir) Ah dayıcığım..\
+**Şemsi**, **Seha** - Oh Kaymakam Bey ..\
+**Ka[ymakam]** - Ama bir şartla, bir tek şartla: Bana dokuz aya kadar iki küçük Türk bahriyelisi yetiştireceksiniz..\
+**Yaşar** -  (kuvvetle) Üç olsun Kaymakam Bey.. Bir de benden..\
+**Herkes** - Nasıl bir de senden?\
+**Yaşar** - (Sırıtarak) Evet.. Acizane..\
+
+
+PERDE İNER
+
+
+
